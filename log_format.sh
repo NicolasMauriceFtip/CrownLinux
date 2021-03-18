@@ -1,13 +1,16 @@
 #!/bin/bash
 
+jsonfile=$"Log_$(date +%F)-$(date +%T).json"
+
 if [[ -e "$1" ]];
 then
-	touch Log_$(date +%F)-$(date +%T).json
-	cat $1 | while read line;
-	do
-		varDate = grep $(date)
-		vartype = $( echo $line | grep "error")
-		echo {\"date":\"$varDate"','"\"type\":\"$varType\""}
-	done
+	touch $jsonfile
+	awk 'BEGIN {
+	print "[ \n"}
+	{gsub( "\[|\]", "");
+	gsub( ":" , "", $3);
+	gsub( ":" , "", $4);
+	print "{\"type\" " ": \""$3"\" , \"message\" : \""$4"\" , \"time\" : \""$1" "$2"\"}, \n"
+	}' $1
 fi
 		 
