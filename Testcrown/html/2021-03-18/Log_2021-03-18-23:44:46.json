@@ -1,0 +1,117 @@
+[ 
+
+{"type" : "error" , "message" : "vulcand/oxy/forward/websocket" , "time" : "18/03/2021 23:43:43"}, 
+
+{"type" : "error" , "message" : "vulcand/oxy/forward/websocket" , "time" : "18/03/2021 23:44:42"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:37"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:39"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:41"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:42"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:42"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:44"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:45"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:47"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:48"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:48"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:50"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:51"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:55"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:56"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:57"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:43:58"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:00"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:00"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:02"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:03"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:04"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:05"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:08"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:08"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:09"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:09"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:12"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:12"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:14"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:18"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:18"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:19"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:19"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:21"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:22"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:22"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:23"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:25"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:25"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:27"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:31"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:33"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:34"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:34"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:35"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:37"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:38"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:38"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:39"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:39"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:41"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:41"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:42"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:44"}, 
+
+{"type" : "warning" , "message" : "Deprecated" , "time" : "18/03/2021 23:44:46"}, 
+
+]

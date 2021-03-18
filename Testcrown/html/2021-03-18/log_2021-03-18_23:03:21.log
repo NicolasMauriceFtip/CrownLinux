@@ -1,0 +1,856 @@
+[18/03/2021 22:59:05] info: Server configuration reloaded on :80
+[18/03/2021 22:59:05] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:05] info: Server configuration reloaded on :80
+[18/03/2021 22:59:06] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:06] info: Server configuration reloaded on :443
+[18/03/2021 22:59:06] info: Server configuration reloaded on :443
+[18/03/2021 22:59:07] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:07] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:07] info: Server configuration reloaded on :80
+[18/03/2021 22:59:08] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:08] info: Server configuration reloaded on :80
+[18/03/2021 22:59:08] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:08] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:09] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:09] info: Server configuration reloaded on :443
+[18/03/2021 22:59:09] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:10] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:10] info: Server configuration reloaded on :443
+[18/03/2021 22:59:10] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:11] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:11] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:11] info: Server configuration reloaded on :443
+[18/03/2021 22:59:11] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:12] info: Server configuration reloaded on :80
+[18/03/2021 22:59:12] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:12] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:13] info: Server configuration reloaded on :443
+[18/03/2021 22:59:13] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:13] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:14] info: Server configuration reloaded on :80
+[18/03/2021 22:59:14] info: Server configuration reloaded on :443
+[18/03/2021 22:59:14] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:14] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:15] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:15] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:15] info: Server configuration reloaded on :443
+[18/03/2021 22:59:16] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:16] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:16] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:17] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:17] info: Server configuration reloaded on :80
+[18/03/2021 22:59:17] info: Server configuration reloaded on :80
+[18/03/2021 22:59:17] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:18] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:18] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:18] info: Server configuration reloaded on :80
+[18/03/2021 22:59:19] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:19] info: Server configuration reloaded on :80
+[18/03/2021 22:59:19] info: Server configuration reloaded on :443
+[18/03/2021 22:59:20] info: Server configuration reloaded on :80
+[18/03/2021 22:59:20] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:20] info: Server configuration reloaded on :80
+[18/03/2021 22:59:20] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:21] info: Server configuration reloaded on :80
+[18/03/2021 22:59:21] info: Server configuration reloaded on :80
+[18/03/2021 22:59:21] info: Server configuration reloaded on :443
+[18/03/2021 22:59:22] info: Server configuration reloaded on :443
+[18/03/2021 22:59:22] info: Server configuration reloaded on :80
+[18/03/2021 22:59:22] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:23] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:23] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:23] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:23] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:24] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:24] info: Server configuration reloaded on :80
+[18/03/2021 22:59:24] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:25] info: Server configuration reloaded on :80
+[18/03/2021 22:59:25] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:25] info: Server configuration reloaded on :443
+[18/03/2021 22:59:26] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:26] info: Server configuration reloaded on :443
+[18/03/2021 22:59:26] info: Server configuration reloaded on :443
+[18/03/2021 22:59:26] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:27] info: Server configuration reloaded on :80
+[18/03/2021 22:59:27] info: Server configuration reloaded on :443
+[18/03/2021 22:59:27] info: Server configuration reloaded on :80
+[18/03/2021 22:59:28] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:28] info: Server configuration reloaded on :80
+[18/03/2021 22:59:28] info: Server configuration reloaded on :443
+[18/03/2021 22:59:29] info: Server configuration reloaded on :80
+[18/03/2021 22:59:29] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:29] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:29] info: Server configuration reloaded on :80
+[18/03/2021 22:59:30] info: Server configuration reloaded on :80
+[18/03/2021 22:59:30] info: Server configuration reloaded on :80
+[18/03/2021 22:59:30] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:31] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:31] info: Server configuration reloaded on :80
+[18/03/2021 22:59:31] info: Server configuration reloaded on :443
+[18/03/2021 22:59:32] info: Server configuration reloaded on :443
+[18/03/2021 22:59:32] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:32] info: Server configuration reloaded on :80
+[18/03/2021 22:59:32] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:33] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:33] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:33] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:34] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:34] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:34] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:35] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:35] info: Server configuration reloaded on :80
+[18/03/2021 22:59:35] info: Server configuration reloaded on :80
+[18/03/2021 22:59:36] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:36] info: Server configuration reloaded on :443
+[18/03/2021 22:59:36] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:36] error: Error renewing certificate from LE: {api.funnychain.co []}, acme: Error -> One or more domains had a problem:
+[funnychain.co] acme: error: 403 :: urn:ietf:params:acme:error:unauthorized :: Cannot negotiate ALPN protocol "acme-tls/1" for tls-alpn-01 challenge, url: 
+[www.funnychain.co] acme: error: 403 :: urn:ietf:params:acme:error:unauthorized :: Cannot negotiate ALPN protocol "acme-tls/1" for tls-alpn-01 challenge, url: 
+
+[18/03/2021 22:59:37] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: read tcp 172.18.0.2:443->92.184.105.227:34516: read: connection reset by peer
+[18/03/2021 22:59:37] info: Server configuration reloaded on :443
+[18/03/2021 22:59:37] info: Server configuration reloaded on :80
+[18/03/2021 22:59:38] info: Server configuration reloaded on :443
+[18/03/2021 22:59:38] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:38] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:39] info: Server configuration reloaded on :443
+[18/03/2021 22:59:39] info: Server configuration reloaded on :443
+[18/03/2021 22:59:39] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:39] info: Server configuration reloaded on :443
+[18/03/2021 22:59:40] info: Server configuration reloaded on :80
+[18/03/2021 22:59:40] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:40] info: Server configuration reloaded on :443
+[18/03/2021 22:59:41] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:41] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:41] info: Server configuration reloaded on :443
+[18/03/2021 22:59:42] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:42] info: Server configuration reloaded on :443
+[18/03/2021 22:59:42] info: Server configuration reloaded on :443
+[18/03/2021 22:59:42] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:43] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:43] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:43] info: Server configuration reloaded on :443
+[18/03/2021 22:59:44] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:44] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:44] info: Server configuration reloaded on :80
+[18/03/2021 22:59:45] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:45] info: Server configuration reloaded on :80
+[18/03/2021 22:59:45] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:45] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:46] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:46] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:46] info: Server configuration reloaded on :443
+[18/03/2021 22:59:47] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:47] info: Server configuration reloaded on :443
+[18/03/2021 22:59:47] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:48] info: Server configuration reloaded on :80
+[18/03/2021 22:59:48] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:48] info: Server configuration reloaded on :80
+[18/03/2021 22:59:48] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: read tcp 172.18.0.2:443->193.57.121.71:12993: read: connection reset by peer
+[18/03/2021 22:59:49] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:49] info: Server configuration reloaded on :80
+[18/03/2021 22:59:49] info: Server configuration reloaded on :443
+[18/03/2021 22:59:50] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:50] info: Server configuration reloaded on :80
+[18/03/2021 22:59:50] info: Server configuration reloaded on :80
+[18/03/2021 22:59:51] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:51] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:51] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:51] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:52] info: Server configuration reloaded on :443
+[18/03/2021 22:59:52] info: Server configuration reloaded on :443
+[18/03/2021 22:59:52] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:53] info: Server configuration reloaded on :80
+[18/03/2021 22:59:53] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:53] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:54] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:54] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:54] info: Server configuration reloaded on :80
+[18/03/2021 22:59:54] info: Server configuration reloaded on :443
+[18/03/2021 22:59:55] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:55] info: Server configuration reloaded on :443
+[18/03/2021 22:59:55] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:56] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:56] info: Server configuration reloaded on :443
+[18/03/2021 22:59:56] info: Server configuration reloaded on :443
+[18/03/2021 22:59:57] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:57] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:57] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:57] info: Server configuration reloaded on :80
+[18/03/2021 22:59:58] info: Server configuration reloaded on :80
+[18/03/2021 22:59:58] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 22:59:58] info: Server configuration reloaded on :8080
+[18/03/2021 22:59:59] info: Server configuration reloaded on :80
+[18/03/2021 22:59:59] info: Server configuration reloaded on :443
+[18/03/2021 22:59:59] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:00] info: Server configuration reloaded on :80
+[18/03/2021 23:00:00] info: Server configuration reloaded on :80
+[18/03/2021 23:00:00] info: Server configuration reloaded on :443
+[18/03/2021 23:00:00] info: Server configuration reloaded on :80
+[18/03/2021 23:00:01] info: Server configuration reloaded on :443
+[18/03/2021 23:00:01] info: Server configuration reloaded on :80
+[18/03/2021 23:00:01] info: Server configuration reloaded on :80
+[18/03/2021 23:00:02] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:02] info: Server configuration reloaded on :443
+[18/03/2021 23:00:02] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:03] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:03] info: Server configuration reloaded on :80
+[18/03/2021 23:00:03] info: Server configuration reloaded on :443
+[18/03/2021 23:00:03] info: Server configuration reloaded on :80
+[18/03/2021 23:00:04] info: Server configuration reloaded on :80
+[18/03/2021 23:00:04] info: Server configuration reloaded on :443
+[18/03/2021 23:00:04] info: Server configuration reloaded on :443
+[18/03/2021 23:00:05] info: Server configuration reloaded on :443
+[18/03/2021 23:00:05] info: Server configuration reloaded on :443
+[18/03/2021 23:00:05] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:06] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:06] info: Server configuration reloaded on :80
+[18/03/2021 23:00:06] info: Server configuration reloaded on :80
+[18/03/2021 23:00:06] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:07] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:07] info: Server configuration reloaded on :80
+[18/03/2021 23:00:07] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:08] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:08] info: Server configuration reloaded on :443
+[18/03/2021 23:00:08] info: Server configuration reloaded on :80
+[18/03/2021 23:00:09] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:09] info: Server configuration reloaded on :80
+[18/03/2021 23:00:09] info: Server configuration reloaded on :80
+[18/03/2021 23:00:09] info: Server configuration reloaded on :80
+[18/03/2021 23:00:10] info: Server configuration reloaded on :80
+[18/03/2021 23:00:10] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:10] info: Server configuration reloaded on :443
+[18/03/2021 23:00:11] info: Server configuration reloaded on :443
+[18/03/2021 23:00:11] info: Server configuration reloaded on :443
+[18/03/2021 23:00:11] info: Server configuration reloaded on :443
+[18/03/2021 23:00:12] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:12] info: Server configuration reloaded on :443
+[18/03/2021 23:00:12] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:12] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:13] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:13] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:13] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:14] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:14] info: Server configuration reloaded on :80
+[18/03/2021 23:00:14] info: Server configuration reloaded on :443
+[18/03/2021 23:00:15] info: Server configuration reloaded on :443
+[18/03/2021 23:00:15] info: Starting server on :80
+[18/03/2021 23:00:15] info: Server configuration reloaded on :443
+[18/03/2021 23:00:15] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:16] info: Server configuration reloaded on :80
+[18/03/2021 23:00:16] info: Server configuration reloaded on :80
+[18/03/2021 23:00:16] info: Server configuration reloaded on :443
+[18/03/2021 23:00:17] info: Server configuration reloaded on :80
+[18/03/2021 23:00:17] info: Server configuration reloaded on :443
+[18/03/2021 23:00:17] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:18] info: Server configuration reloaded on :443
+[18/03/2021 23:00:18] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:18] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:18] info: Server configuration reloaded on :443
+[18/03/2021 23:00:19] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:19] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:19] info: Server configuration reloaded on :80
+[18/03/2021 23:00:20] info: Server configuration reloaded on :80
+[18/03/2021 23:00:20] info: Server configuration reloaded on :80
+[18/03/2021 23:00:20] info: Server configuration reloaded on :80
+[18/03/2021 23:00:21] info: Server configuration reloaded on :80
+[18/03/2021 23:00:21] info: Server configuration reloaded on :443
+[18/03/2021 23:00:21] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:22] info: Server configuration reloaded on :80
+[18/03/2021 23:00:22] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:22] info: Server configuration reloaded on :80
+[18/03/2021 23:00:22] info: Server configuration reloaded on :443
+[18/03/2021 23:00:23] info: Server configuration reloaded on :80
+[18/03/2021 23:00:23] info: Server configuration reloaded on :443
+[18/03/2021 23:00:23] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:24] info: Server configuration reloaded on :443
+[18/03/2021 23:00:24] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:24] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:25] info: Server configuration reloaded on :443
+[18/03/2021 23:00:25] info: Server configuration reloaded on :443
+[18/03/2021 23:00:25] info: Server configuration reloaded on :443
+[18/03/2021 23:00:25] info: Server configuration reloaded on :443
+[18/03/2021 23:00:26] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:00:26] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:26] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:27] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:27] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:27] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:28] info: Server configuration reloaded on :443
+[18/03/2021 23:00:28] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:00:28] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:28] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:29] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:29] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:29] info: Server configuration reloaded on :80
+[18/03/2021 23:00:30] info: Server configuration reloaded on :443
+[18/03/2021 23:00:30] info: Server configuration reloaded on :80
+[18/03/2021 23:00:30] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:31] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:31] info: Server configuration reloaded on :443
+[18/03/2021 23:00:31] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:31] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:32] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:32] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:32] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:33] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:33] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:33] info: Server configuration reloaded on :443
+[18/03/2021 23:00:34] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:34] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:34] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:34] info: Server configuration reloaded on :443
+[18/03/2021 23:00:35] info: Server configuration reloaded on :443
+[18/03/2021 23:00:35] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:00:35] info: Server configuration reloaded on :80
+[18/03/2021 23:00:36] info: Server configuration reloaded on :443
+[18/03/2021 23:00:36] info: Server configuration reloaded on :80
+[18/03/2021 23:00:36] info: Server configuration reloaded on :443
+[18/03/2021 23:00:37] info: Server configuration reloaded on :80
+[18/03/2021 23:00:37] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:37] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:37] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:38] info: Server configuration reloaded on :443
+[18/03/2021 23:00:38] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:38] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:39] info: Server configuration reloaded on :80
+[18/03/2021 23:00:39] info: Server configuration reloaded on :80
+[18/03/2021 23:00:39] info: Server configuration reloaded on :80
+[18/03/2021 23:00:40] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:40] info: Server configuration reloaded on :80
+[18/03/2021 23:00:40] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:40] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:41] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:41] info: Server configuration reloaded on :443
+[18/03/2021 23:00:41] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:42] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:42] info: Server configuration reloaded on :80
+[18/03/2021 23:00:42] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:43] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:43] info: Renewing certificate from LE : {Main:api.funnychain.co SANs:[]}
+[18/03/2021 23:00:43] info: Server configuration reloaded on :443
+[18/03/2021 23:00:43] info: Server configuration reloaded on :443
+[18/03/2021 23:00:44] info: Server configuration reloaded on :80
+[18/03/2021 23:00:44] info: Server configuration reloaded on :80
+[18/03/2021 23:00:44] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:45] info: Server configuration reloaded on :80
+[18/03/2021 23:00:45] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:45] info: Server configuration reloaded on :443
+[18/03/2021 23:00:46] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:46] info: Server configuration reloaded on :80
+[18/03/2021 23:00:46] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:46] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:47] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:47] info: Server configuration reloaded on :80
+[18/03/2021 23:00:47] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:48] info: Server configuration reloaded on :80
+[18/03/2021 23:00:48] info: Server configuration reloaded on :80
+[18/03/2021 23:00:48] info: Server configuration reloaded on :443
+[18/03/2021 23:00:49] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:49] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:49] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:49] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:50] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:50] info: Server configuration reloaded on :443
+[18/03/2021 23:00:50] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:51] info: Server configuration reloaded on :443
+[18/03/2021 23:00:51] info: Server configuration reloaded on :443
+[18/03/2021 23:00:51] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:52] info: Server configuration reloaded on :443
+[18/03/2021 23:00:52] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:52] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:00:52] info: Server configuration reloaded on :80
+[18/03/2021 23:00:53] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:53] info: Server configuration reloaded on :80
+[18/03/2021 23:00:53] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:54] info: Server configuration reloaded on :443
+[18/03/2021 23:00:54] info: Server configuration reloaded on :443
+[18/03/2021 23:00:54] info: Server configuration reloaded on :443
+[18/03/2021 23:00:55] info: Server configuration reloaded on :80
+[18/03/2021 23:00:55] info: Server configuration reloaded on :443
+[18/03/2021 23:00:55] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:55] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:56] info: Server configuration reloaded on :443
+[18/03/2021 23:00:56] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:56] info: Server configuration reloaded on :443
+[18/03/2021 23:00:57] info: Server configuration reloaded on :8080
+[18/03/2021 23:00:57] info: Server configuration reloaded on :443
+[18/03/2021 23:00:57] info: Server configuration reloaded on :80
+[18/03/2021 23:00:58] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:00:58] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:58] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:58] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:00:59] info: Server configuration reloaded on :80
+[18/03/2021 23:00:59] info: Server configuration reloaded on :80
+[18/03/2021 23:00:59] info: Server configuration reloaded on :443
+[18/03/2021 23:01:00] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:00] info: Server configuration reloaded on :443
+[18/03/2021 23:01:00] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:01] info: Server configuration reloaded on :80
+[18/03/2021 23:01:01] info: Server configuration reloaded on :80
+[18/03/2021 23:01:01] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:01:01] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:02] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:02] info: Server configuration reloaded on :80
+[18/03/2021 23:01:02] info: Server configuration reloaded on :443
+[18/03/2021 23:01:03] info: Server configuration reloaded on :443
+[18/03/2021 23:01:03] info: Server configuration reloaded on :80
+[18/03/2021 23:01:03] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:04] info: Server configuration reloaded on :80
+[18/03/2021 23:01:04] info: Server configuration reloaded on :80
+[18/03/2021 23:01:04] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:04] info: Server configuration reloaded on :80
+[18/03/2021 23:01:05] info: Server configuration reloaded on :443
+[18/03/2021 23:01:05] info: Server configuration reloaded on :443
+[18/03/2021 23:01:05] info: Server configuration reloaded on :80
+[18/03/2021 23:01:06] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:06] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:06] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:07] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:07] info: Server configuration reloaded on :443
+[18/03/2021 23:01:07] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:08] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:08] info: Renewing certificate from LE : {Main:registry.funnychain.co SANs:[]}
+[18/03/2021 23:01:08] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:08] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:09] info: Server configuration reloaded on :80
+[18/03/2021 23:01:09] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:09] info: Server configuration reloaded on :80
+[18/03/2021 23:01:10] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:10] info: Server configuration reloaded on :443
+[18/03/2021 23:01:10] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:11] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:11] info: Server configuration reloaded on :443
+[18/03/2021 23:01:11] info: Testing certificate renew...
+[18/03/2021 23:01:11] info: Server configuration reloaded on :80
+[18/03/2021 23:01:12] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:12] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:12] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:13] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:13] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:13] info: Server configuration reloaded on :443
+[18/03/2021 23:01:14] info: Server configuration reloaded on :443
+[18/03/2021 23:01:14] info: Server configuration reloaded on :80
+[18/03/2021 23:01:14] error: vulcand/oxy/forward/websocket: Error dialing "alphahub.aptero.co": websocket: bad handshake with resp: 502 502 Bad Gateway
+[18/03/2021 23:01:14] info: Server configuration reloaded on :443
+[18/03/2021 23:01:15] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:15] info: Server configuration reloaded on :443
+[18/03/2021 23:01:15] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:16] info: Server configuration reloaded on :80
+[18/03/2021 23:01:16] info: Server configuration reloaded on :443
+[18/03/2021 23:01:16] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:17] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:17] info: Server configuration reloaded on :80
+[18/03/2021 23:01:17] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:17] info: Server configuration reloaded on :443
+[18/03/2021 23:01:18] info: Server configuration reloaded on :443
+[18/03/2021 23:01:18] info: Server configuration reloaded on :80
+[18/03/2021 23:01:18] info: Server configuration reloaded on :80
+[18/03/2021 23:01:19] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:19] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:19] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:20] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:20] info: Server configuration reloaded on :443
+[18/03/2021 23:01:20] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:20] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:21] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:21] info: Server configuration reloaded on :80
+[18/03/2021 23:01:21] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:22] info: Server configuration reloaded on :443
+[18/03/2021 23:01:22] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:22] info: Server configuration reloaded on :443
+[18/03/2021 23:01:23] error: vulcand/oxy/forward/websocket: Error dialing "alphahub.aptero.co": websocket: bad handshake with resp: 502 502 Bad Gateway
+[18/03/2021 23:01:23] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:23] info: Server configuration reloaded on :80
+[18/03/2021 23:01:23] info: Server configuration reloaded on :443
+[18/03/2021 23:01:24] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:24] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:24] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:25] info: Server configuration reloaded on :443
+[18/03/2021 23:01:25] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:25] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:01:26] info: Server configuration reloaded on :443
+[18/03/2021 23:01:26] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:26] info: Server configuration reloaded on :80
+[18/03/2021 23:01:26] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:27] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:27] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:27] info: Server configuration reloaded on :443
+[18/03/2021 23:01:28] info: Server configuration reloaded on :443
+[18/03/2021 23:01:28] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:28] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:29] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:29] info: Server configuration reloaded on :80
+[18/03/2021 23:01:29] info: Server configuration reloaded on :443
+[18/03/2021 23:01:29] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:30] info: Server configuration reloaded on :80
+[18/03/2021 23:01:30] info: Server configuration reloaded on :80
+[18/03/2021 23:01:30] info: Server configuration reloaded on :80
+[18/03/2021 23:01:31] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:31] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:31] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:32] info: Server configuration reloaded on :80
+[18/03/2021 23:01:32] info: Server configuration reloaded on :443
+[18/03/2021 23:01:32] info: Server configuration reloaded on :443
+[18/03/2021 23:01:32] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:33] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:33] info: Server configuration reloaded on :80
+[18/03/2021 23:01:33] info: Server configuration reloaded on :80
+[18/03/2021 23:01:34] info: Server configuration reloaded on :443
+[18/03/2021 23:01:34] info: Server configuration reloaded on :443
+[18/03/2021 23:01:34] info: Server configuration reloaded on :80
+[18/03/2021 23:01:35] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:35] info: Server configuration reloaded on :80
+[18/03/2021 23:01:35] info: Server configuration reloaded on :443
+[18/03/2021 23:01:35] info: Server configuration reloaded on :443
+[18/03/2021 23:01:36] info: Server configuration reloaded on :443
+[18/03/2021 23:01:36] info: Server configuration reloaded on :80
+[18/03/2021 23:01:36] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:37] info: Server configuration reloaded on :443
+[18/03/2021 23:01:37] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:37] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:38] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:38] info: Server configuration reloaded on :443
+[18/03/2021 23:01:38] info: Server configuration reloaded on :443
+[18/03/2021 23:01:38] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:39] info: Server configuration reloaded on :443
+[18/03/2021 23:01:39] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:39] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:40] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:40] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:40] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:41] error: vulcand/oxy/forward/websocket: Error when copying from backend to client: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:01:41] error: vulcand/oxy/forward/websocket: Error when copying from backend to client: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:01:41] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:41] info: Server configuration reloaded on :80
+[18/03/2021 23:01:42] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:42] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:42] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:43] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:43] info: Server configuration reloaded on :80
+[18/03/2021 23:01:43] info: Server configuration reloaded on :80
+[18/03/2021 23:01:44] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:44] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:44] info: Server configuration reloaded on :80
+[18/03/2021 23:01:44] info: Server configuration reloaded on :80
+[18/03/2021 23:01:45] info: Server configuration reloaded on :80
+[18/03/2021 23:01:45] info: Server configuration reloaded on :80
+[18/03/2021 23:01:45] info: Server configuration reloaded on :443
+[18/03/2021 23:01:46] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:46] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:46] info: Server configuration reloaded on :80
+[18/03/2021 23:01:47] info: Server configuration reloaded on :443
+[18/03/2021 23:01:47] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:47] error: vulcand/oxy/forward/websocket: Error dialing "alphahub.aptero.co": websocket: bad handshake with resp: 502 502 Bad Gateway
+[18/03/2021 23:01:47] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:48] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:48] info: Server configuration reloaded on :80
+[18/03/2021 23:01:48] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:49] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:49] info: Server configuration reloaded on :443
+[18/03/2021 23:01:49] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:50] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:50] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:50] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:51] info: Server configuration reloaded on :443
+[18/03/2021 23:01:51] info: Server configuration reloaded on :80
+[18/03/2021 23:01:51] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:51] info: Server configuration reloaded on :443
+[18/03/2021 23:01:52] info: Server configuration reloaded on :443
+[18/03/2021 23:01:52] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:52] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:53] info: Server configuration reloaded on :443
+[18/03/2021 23:01:53] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:53] info: Server configuration reloaded on :80
+[18/03/2021 23:01:54] info: Server configuration reloaded on :443
+[18/03/2021 23:01:54] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:54] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:54] info: Server configuration reloaded on :443
+[18/03/2021 23:01:55] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:55] info: Server configuration reloaded on :443
+[18/03/2021 23:01:55] info: Server configuration reloaded on :443
+[18/03/2021 23:01:56] info: Server configuration reloaded on :443
+[18/03/2021 23:01:56] info: Server configuration reloaded on :8080
+[18/03/2021 23:01:56] info: Server configuration reloaded on :80
+[18/03/2021 23:01:57] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:57] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:57] info: Server configuration reloaded on :443
+[18/03/2021 23:01:57] info: Server configuration reloaded on :443
+[18/03/2021 23:01:58] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:01:58] info: Server configuration reloaded on :443
+[18/03/2021 23:01:58] info: Server configuration reloaded on :80
+[18/03/2021 23:01:59] info: Server configuration reloaded on :80
+[18/03/2021 23:01:59] info: Server configuration reloaded on :443
+[18/03/2021 23:01:59] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:00] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:00] info: Server configuration reloaded on :443
+[18/03/2021 23:02:00] info: Server configuration reloaded on :80
+[18/03/2021 23:02:00] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:01] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:01] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:01] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:02] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:02] info: Server configuration reloaded on :443
+[18/03/2021 23:02:02] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:03] info: Server configuration reloaded on :80
+[18/03/2021 23:02:03] info: Server configuration reloaded on :80
+[18/03/2021 23:02:03] info: Server configuration reloaded on :80
+[18/03/2021 23:02:03] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:04] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:04] info: Server configuration reloaded on :443
+[18/03/2021 23:02:04] info: Server configuration reloaded on :443
+[18/03/2021 23:02:05] info: Server configuration reloaded on :443
+[18/03/2021 23:02:05] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:05] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:06] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:06] info: Server configuration reloaded on :80
+[18/03/2021 23:02:06] info: Server configuration reloaded on :443
+[18/03/2021 23:02:06] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:07] info: Server configuration reloaded on :443
+[18/03/2021 23:02:07] info: Server configuration reloaded on :443
+[18/03/2021 23:02:07] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:08] info: Server configuration reloaded on :443
+[18/03/2021 23:02:08] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:08] info: Server configuration reloaded on :443
+[18/03/2021 23:02:09] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:02:09] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:09] info: Server configuration reloaded on :443
+[18/03/2021 23:02:09] info: Server configuration reloaded on :443
+[18/03/2021 23:02:10] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:10] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:10] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:11] info: Server configuration reloaded on :80
+[18/03/2021 23:02:11] info: Server configuration reloaded on :443
+[18/03/2021 23:02:11] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:12] info: Server configuration reloaded on :80
+[18/03/2021 23:02:12] info: Server configuration reloaded on :80
+[18/03/2021 23:02:12] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:12] info: Server configuration reloaded on :80
+[18/03/2021 23:02:13] info: Server configuration reloaded on :443
+[18/03/2021 23:02:13] info: Server configuration reloaded on :80
+[18/03/2021 23:02:13] info: Server configuration reloaded on :80
+[18/03/2021 23:02:14] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:14] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:14] info: Server configuration reloaded on :443
+[18/03/2021 23:02:15] info: Server configuration reloaded on :80
+[18/03/2021 23:02:15] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:15] info: Server configuration reloaded on :80
+[18/03/2021 23:02:16] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:16] info: Server configuration reloaded on :443
+[18/03/2021 23:02:16] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:16] info: Server configuration reloaded on :443
+[18/03/2021 23:02:17] info: Server configuration reloaded on :80
+[18/03/2021 23:02:17] info: Server configuration reloaded on :80
+[18/03/2021 23:02:17] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:18] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:18] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:18] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:19] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:19] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:19] info: Server configuration reloaded on :80
+[18/03/2021 23:02:19] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:20] info: Server configuration reloaded on :80
+[18/03/2021 23:02:20] info: Server configuration reloaded on :443
+[18/03/2021 23:02:20] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:21] info: Server configuration reloaded on :443
+[18/03/2021 23:02:21] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:21] info: Server configuration reloaded on :80
+[18/03/2021 23:02:22] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:22] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:22] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:22] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:23] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:23] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:23] info: Server configuration reloaded on :80
+[18/03/2021 23:02:24] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:24] info: Server configuration reloaded on :80
+[18/03/2021 23:02:24] info: Server configuration reloaded on :80
+[18/03/2021 23:02:25] info: Server configuration reloaded on :80
+[18/03/2021 23:02:25] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:25] info: Server configuration reloaded on :443
+[18/03/2021 23:02:25] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:26] info: Server configuration reloaded on :80
+[18/03/2021 23:02:26] info: Server configuration reloaded on :443
+[18/03/2021 23:02:26] info: Server configuration reloaded on :443
+[18/03/2021 23:02:27] info: Server configuration reloaded on :443
+[18/03/2021 23:02:27] info: Server configuration reloaded on :80
+[18/03/2021 23:02:27] info: Server configuration reloaded on :443
+[18/03/2021 23:02:28] info: Server configuration reloaded on :80
+[18/03/2021 23:02:28] info: Server configuration reloaded on :80
+[18/03/2021 23:02:28] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:28] info: Server configuration reloaded on :80
+[18/03/2021 23:02:29] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:29] info: Server configuration reloaded on :80
+[18/03/2021 23:02:29] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:30] info: Server configuration reloaded on :443
+[18/03/2021 23:02:30] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:30] info: Server configuration reloaded on :80
+[18/03/2021 23:02:31] info: Server configuration reloaded on :80
+[18/03/2021 23:02:31] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:31] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:31] info: Server configuration reloaded on :80
+[18/03/2021 23:02:32] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:32] info: Server configuration reloaded on :443
+[18/03/2021 23:02:32] info: Server configuration reloaded on :443
+[18/03/2021 23:02:33] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:33] info: Server configuration reloaded on :443
+[18/03/2021 23:02:33] info: Server configuration reloaded on :443
+[18/03/2021 23:02:34] info: Server configuration reloaded on :443
+[18/03/2021 23:02:34] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:34] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:34] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:35] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:35] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:35] info: Server configuration reloaded on :443
+[18/03/2021 23:02:36] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:36] info: Server configuration reloaded on :443
+[18/03/2021 23:02:36] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:37] info: Server configuration reloaded on :443
+[18/03/2021 23:02:37] info: Server configuration reloaded on :80
+[18/03/2021 23:02:37] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:37] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:38] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:38] info: Server configuration reloaded on :80
+[18/03/2021 23:02:38] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:39] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:39] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:39] info: Skipping same configuration for provider docker
+[18/03/2021 23:02:40] info: Server configuration reloaded on :80
+[18/03/2021 23:02:40] info: Server configuration reloaded on :443
+[18/03/2021 23:02:40] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:40] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:41] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:41] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:41] info: Server configuration reloaded on :443
+[18/03/2021 23:02:42] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:42] info: Server configuration reloaded on :80
+[18/03/2021 23:02:42] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:43] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:43] info: Server configuration reloaded on :80
+[18/03/2021 23:02:43] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:43] info: Server configuration reloaded on :80
+[18/03/2021 23:02:44] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:44] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:44] info: Server configuration reloaded on :80
+[18/03/2021 23:02:45] error: vulcand/oxy/forward/websocket: Error dialing "loreal.aptero.co": websocket: bad handshake with resp: 502 502 Bad Gateway
+[18/03/2021 23:02:45] info: Server configuration reloaded on :443
+[18/03/2021 23:02:45] info: Server configuration reloaded on :443
+[18/03/2021 23:02:46] info: Server configuration reloaded on :80
+[18/03/2021 23:02:46] info: Server configuration reloaded on :443
+[18/03/2021 23:02:46] info: Server configuration reloaded on :443
+[18/03/2021 23:02:46] info: Server configuration reloaded on :443
+[18/03/2021 23:02:47] info: Server configuration reloaded on :80
+[18/03/2021 23:02:47] info: Server configuration reloaded on :80
+[18/03/2021 23:02:47] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:48] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:48] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:48] info: Server configuration reloaded on :443
+[18/03/2021 23:02:49] info: Server configuration reloaded on :80
+[18/03/2021 23:02:49] info: Server configuration reloaded on :80
+[18/03/2021 23:02:49] info: Server configuration reloaded on :443
+[18/03/2021 23:02:49] info: Server configuration reloaded on :443
+[18/03/2021 23:02:50] info: Server configuration reloaded on :443
+[18/03/2021 23:02:50] info: Server configuration reloaded on :80
+[18/03/2021 23:02:50] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:51] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:51] info: Server configuration reloaded on :443
+[18/03/2021 23:02:51] info: Server configuration reloaded on :443
+[18/03/2021 23:02:52] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:52] info: Server configuration reloaded on :80
+[18/03/2021 23:02:52] info: Server configuration reloaded on :443
+[18/03/2021 23:02:52] info: Server configuration reloaded on :80
+[18/03/2021 23:02:53] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:53] info: Server configuration reloaded on :443
+[18/03/2021 23:02:53] info: Server configuration reloaded on :443
+[18/03/2021 23:02:54] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:54] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:54] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:55] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:55] info: Server configuration reloaded on :443
+[18/03/2021 23:02:55] info: Server configuration reloaded on :80
+[18/03/2021 23:02:55] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:56] info: Server configuration reloaded on :80
+[18/03/2021 23:02:56] info: Server configuration reloaded on :443
+[18/03/2021 23:02:56] info: Server configuration reloaded on :80
+[18/03/2021 23:02:57] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:57] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:57] info: Server configuration reloaded on :443
+[18/03/2021 23:02:58] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:58] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:58] info: Server configuration reloaded on :80
+[18/03/2021 23:02:59] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:59] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:02:59] info: Server configuration reloaded on :8080
+[18/03/2021 23:02:59] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:00] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:00] info: Server configuration reloaded on :443
+[18/03/2021 23:03:00] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:01] info: Server configuration reloaded on :443
+[18/03/2021 23:03:01] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:01] info: Server configuration reloaded on :80
+[18/03/2021 23:03:02] info: Server configuration reloaded on :80
+[18/03/2021 23:03:02] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:02] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:02] info: Server configuration reloaded on :443
+[18/03/2021 23:03:03] info: Server configuration reloaded on :80
+[18/03/2021 23:03:03] info: Server configuration reloaded on :443
+[18/03/2021 23:03:03] info: Server configuration reloaded on :80
+[18/03/2021 23:03:04] info: Server configuration reloaded on :80
+[18/03/2021 23:03:04] info: Server configuration reloaded on :443
+[18/03/2021 23:03:04] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:05] info: Server configuration reloaded on :443
+[18/03/2021 23:03:05] info: Server configuration reloaded on :443
+[18/03/2021 23:03:05] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:05] info: Server configuration reloaded on :80
+[18/03/2021 23:03:06] info: Server configuration reloaded on :80
+[18/03/2021 23:03:06] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:06] info: Server configuration reloaded on :80
+[18/03/2021 23:03:07] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:07] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:07] info: Server configuration reloaded on :443
+[18/03/2021 23:03:08] info: Server configuration reloaded on :443
+[18/03/2021 23:03:08] info: Server configuration reloaded on :80
+[18/03/2021 23:03:08] info: Server configuration reloaded on :80
+[18/03/2021 23:03:08] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: websocket: close 1006 (abnormal closure): unexpected EOF
+[18/03/2021 23:03:09] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:09] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:09] info: Server configuration reloaded on :443
+[18/03/2021 23:03:10] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:10] info: Server configuration reloaded on :80
+[18/03/2021 23:03:10] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:11] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:11] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:11] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:11] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:12] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:12] info: Server configuration reloaded on :80
+[18/03/2021 23:03:12] info: Skipping same configuration for provider docker
+[18/03/2021 23:03:13] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:13] info: Server configuration reloaded on :443
+[18/03/2021 23:03:13] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:14] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:14] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:14] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:14] info: Server configuration reloaded on :80
+[18/03/2021 23:03:15] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:15] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:15] info: Server configuration reloaded on :443
+[18/03/2021 23:03:16] error: vulcand/oxy/forward/websocket: Error when copying from client to backend: read tcp 172.18.0.2:443->79.81.206.206:52831: read: connection reset by peer
+[18/03/2021 23:03:16] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:16] info: Server configuration reloaded on :80
+[18/03/2021 23:03:17] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:17] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:17] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:17] info: Server configuration reloaded on :80
+[18/03/2021 23:03:18] info: Server configuration reloaded on :443
+[18/03/2021 23:03:18] info: Server configuration reloaded on :80
+[18/03/2021 23:03:18] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:19] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:19] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:19] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:20] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:20] info: Server configuration reloaded on :443
+[18/03/2021 23:03:20] info: Server configuration reloaded on :443
+[18/03/2021 23:03:20] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:03:21] info: Server configuration reloaded on :8080
+[18/03/2021 23:03:21] info: Server configuration reloaded on :443
