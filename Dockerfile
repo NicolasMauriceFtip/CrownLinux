@@ -1,17 +1,8 @@
 FROM registry.aptero.co/projet-linux
-
-Copy scripts*
-
-
----- nginx1
-RUN apt-get update
-RUN apt-get install nginx -y
----- nginx1
----- ngingx2
-COPY ./html_root/ /var/www/html
-RUN nohup /usr/sbin/nginx &
-
----- nginx2
-
-
-EXPOSE 80
+RUN mkdir ~/html_root/
+COPY ./html_root/ /~/html_root/
+COPY ./log_dump.sh/ /~/
+COPY ./log_filter.sh/ /~/
+COPY ./log_format.sh/ /~/
+COPY ./install_nginx_1.sh/ /~/
+COPY ./install_nginx_2.sh/ /~/
