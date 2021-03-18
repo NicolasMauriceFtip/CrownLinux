@@ -8,6 +8,3 @@ then
 	grep "err" $1
 	grep "warn" $1
 fi
-
-
-

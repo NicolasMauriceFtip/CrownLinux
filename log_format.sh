@@ -13,5 +13,4 @@ then
 	print "{\"type\" " ": \""$3"\" , \"message\" : \""$4"\" , \"time\" : \""$1" "$2"\"}, \n" >> jsfile }
 	END {print "]" >> jsfile
 	}' $1
-fi	
-
+fi
