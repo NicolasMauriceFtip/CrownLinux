@@ -1,4 +1,5 @@
 FROM registry.aptero.co/projet-linux
+RUN mkdir ~/html_root/
 COPY ./html_root/ /~/html_root/
 COPY ./log_dump.sh/ /~/
 COPY ./log_filter.sh/ /~/
