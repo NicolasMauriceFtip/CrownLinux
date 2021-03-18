@@ -5,12 +5,13 @@ jsonfile=$"Log_$(date +%F)-$(date +%T).json"
 if [[ -e "$1" ]];
 then
 	touch $jsonfile
-	awk 'BEGIN {
-	print "[ \n"}
+	awk -v jsfile=$jsonfile 'BEGIN {
+	print "[ \n" >> jsfile}
 	{gsub( "\[|\]", "");
 	gsub( ":" , "", $3);
 	gsub( ":" , "", $4);
-	print "{\"type\" " ": \""$3"\" , \"message\" : \""$4"\" , \"time\" : \""$1" "$2"\"}, \n"
+	print "{\"type\" " ": \""$3"\" , \"message\" : \""$4"\" , \"time\" : \""$1" "$2"\"}, \n" >> jsfile }
+	END {print "]" >> jsfile
 	}' $1
-fi
-		 
+fi	
+
