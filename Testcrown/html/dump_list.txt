@@ -53,5 +53,4 @@ Testcrown/html/2021-03-18/log_2021-03-18_23:55:13.log
 Testcrown/html/2021-03-19/log_2021-03-19_08:10:47.log
 Testcrown/html/2021-03-19/log_2021-03-19_08:13:04.log
 Testcrown/html/2021-03-19/log_2021-03-19_08:15:56.log
-Testcrown/html/2021-03-19/log_2021-03-19_10:13:56.log
-Testcrown/html/2021-03-19/log_2021-03-19_10:15:12.log
+
