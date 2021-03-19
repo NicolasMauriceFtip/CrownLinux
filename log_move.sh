@@ -36,13 +36,6 @@ fi
 bash ~/CrownLinux/log_filter.sh $c
 bash ~/CrownLinux/log_format.sh $f/temp.txt $a
 
-
-#ajoute chemin fichier ds json liste
-mystring=$(echo $d | cut -c 3-)
-echo $mystring
-printf $a/$mystring'\n'>>$e
-
-
 #archive dossier log
 if [[ ! -d log.tar.gz ]];
 then 
