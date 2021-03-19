@@ -7,16 +7,15 @@ fetch('./log/json_list.txt')
 
 
 function appendData(text) {
-    
-    text.replace("/var/www/html","")
-    var res = text.split("\n");
 
+    var res = text.split("\n");
+    res[res.length-2].slice(0,-1);
     var mainContainer = document.getElementById("log_info");
 
     for (var i = 0; i < res.length; i++) {
-
+	var res2 = res[i].replace("/var/www/html","");
         var div = document.createElement("div");
-        div.innerHTML =  '<a href=' + res[i] +'" download>' + res[i] + '</a>'
+        div.innerHTML =  '<a href="' + res2 +'" download>' + res2 + '</a>'
         mainContainer.appendChild(div);
 
         var ul = document.createElement("ul");

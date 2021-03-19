@@ -1,10 +1,10 @@
 #!/bin/bash
-varErr=0
-varWarn=0
-fileParam=$1
-
+touch /var/www/html/log/temp.txt
 if [[ -e "$1" ]];
 then
-	grep "err" $1
-	grep "warn" $1
+	grep "err" $1 > /var/www/html/log/temp.txt
+	grep "warn" $1 >> /var/www/html/log/temp.txt
 fi
+
+
+
