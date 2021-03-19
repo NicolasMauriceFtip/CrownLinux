@@ -1,0 +1,26 @@
+[18/03/2021 23:55:05] info: Server configuration reloaded on :80
+[18/03/2021 23:55:05] info: Server configuration reloaded on :443
+[18/03/2021 23:55:06] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:55:06] info: Server configuration reloaded on :8080
+[18/03/2021 23:55:06] info: Server configuration reloaded on :8080
+[18/03/2021 23:55:07] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:55:07] info: Server configuration reloaded on :80
+[18/03/2021 23:55:07] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:55:08] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:55:08] info: Server configuration reloaded on :80
+[18/03/2021 23:55:08] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:55:08] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:55:09] info: Server configuration reloaded on :8080
+[18/03/2021 23:55:09] info: Server configuration reloaded on :80
+[18/03/2021 23:55:09] info: Server configuration reloaded on :80
+[18/03/2021 23:55:10] info: Server configuration reloaded on :443
+[18/03/2021 23:55:10] info: Server configuration reloaded on :8080
+[18/03/2021 23:55:10] info: Server configuration reloaded on :8080
+[18/03/2021 23:55:11] info: Server configuration reloaded on :8080
+[18/03/2021 23:55:11] info: Server configuration reloaded on :80
+[18/03/2021 23:55:11] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:55:11] warning: Deprecated configuration found: traefik.frontend.auth.basic. Please use traefik.frontend.auth.basic.users.
+[18/03/2021 23:55:12] info: Server configuration reloaded on :8080
+[18/03/2021 23:55:12] info: Server configuration reloaded on :80
+[18/03/2021 23:55:12] info: Server configuration reloaded on :8080
+[18/03/2021 23:55:13] info: Server configuration reloaded on :443

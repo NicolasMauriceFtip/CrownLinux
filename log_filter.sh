@@ -1,12 +1,9 @@
 #!/bin/bash
-varErr=0
-varWarn=0
-fileParam=$1
-
+touch temp.txt
 if [[ -e "$1" ]];
 then
-	grep "err" $1
-	grep "warn" $1
+	grep "err" $1 > ./temp.txt
+	grep "warn" $1 >> ./temp.txt
 fi
 
 
