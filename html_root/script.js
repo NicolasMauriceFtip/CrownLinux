@@ -1,4 +1,4 @@
-fetch('./log/dump_list.txt')
+fetch('./log/json_list.txt')
 .then(resp=> resp.blob())
 .then(blob => blob.text())
 .then(text=> {appendData(text)})
@@ -9,7 +9,7 @@ fetch('./log/dump_list.txt')
 function appendData(text) {
 
     var res = text.split("\n");
-
+    res[res.length-2].slice(0,-1);
     var mainContainer = document.getElementById("log_info");
 
     for (var i = 0; i < res.length; i++) {

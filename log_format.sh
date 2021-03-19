@@ -3,7 +3,7 @@
 jsonfile=$"Log_$(date +%F)-$(date +%T).json"
 
 touch $2/$jsonfile
-awk -v jsfile=$jsonfile 'BEGIN {
+awk -v jsfile=$2/$jsonfile 'BEGIN {
 print "[ \n" >> jsfile}
 {gsub( "\[|\]", "");
 gsub( ":" , "", $3);
