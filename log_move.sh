@@ -40,7 +40,6 @@ bash ./log_format.sh ./temp.txt
 
 #trouve+copie nouveau json log ds bon dossier
 d=$(find . -name *.json)
-echo $d
 cp $d $a
 
 
