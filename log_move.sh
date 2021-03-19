@@ -22,7 +22,6 @@ rm *json*
 bash ./log_filter.sh $c
 bash ./log_format.sh ./temp.txt
 d=$(find . -name *.json)
-echo $d
 cp $d $a
 mystring=$(echo $d | cut -c 3-)
 echo $mystring

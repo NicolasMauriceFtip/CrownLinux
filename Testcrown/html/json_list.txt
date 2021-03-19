@@ -17,3 +17,5 @@ Testcrown/html/2021-03-18/
 Testcrown/html/2021-03-19/
 Testcrown/html/2021-03-19/
 Testcrown/html/2021-03-19/Log_2021-03-19-08:15:56.json
+Testcrown/html/2021-03-19/Log_2021-03-19-10:13:56.json
+Testcrown/html/2021-03-19/Log_2021-03-19-10:15:12.json
