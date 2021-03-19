@@ -14,4 +14,3 @@ then
 	END {print "]" >> jsfile
 	}' $1
 fi	
-
