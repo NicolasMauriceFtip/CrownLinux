@@ -1,9 +1,9 @@
 #!/bin/bash
-touch temp.txt
+touch /var/www/html/log/temp.txt
 if [[ -e "$1" ]];
 then
-	grep "err" $1 > ./temp.txt
-	grep "warn" $1 >> ./temp.txt
+	grep "err" $1 > /var/www/html/log/temp.txt
+	grep "warn" $1 >> /var/www/html/log/temp.txt
 fi
 
 

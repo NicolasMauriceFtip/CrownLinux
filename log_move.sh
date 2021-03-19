@@ -14,7 +14,7 @@ if [[ ! -d $a ]];
 then
 	mkdir -p $a
 fi
-bash ./log_dump.sh /workspace/log_server/server.log $c 
+bash ~/CrownLinux/log_dump.sh /workspace/log_server/server.log $c 
 
 
 #verifie si fichier liste existant + y inscrit chemin  du log cree
@@ -30,24 +30,17 @@ if [[ ! -e $e ]];
 then
 	touch $e 
 fi
-rm *json*
 
 
 #execute log_filter.sh + log_format.sh
-bash ./log_filter.sh $c
-bash ./log_format.sh ./temp.txt
-
-
-#trouve+copie nouveau json log ds bon dossier
-d=$(find . -name *.json)
-cp $d $a
+bash ~/CrownLinux/log_filter.sh $c
+bash ~/CrownLinux/log_format.sh $f/temp.txt $a
 
 
 #ajoute chemin fichier ds json liste
 mystring=$(echo $d | cut -c 3-)
 echo $mystring
 printf $a/$mystring'\n'>>$e
-rm ./temp.txt
 
 
 #archive dossier log
