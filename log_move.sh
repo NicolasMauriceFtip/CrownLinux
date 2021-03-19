@@ -24,9 +24,9 @@ bash ./log_format.sh ./temp.txt
 d=$(find . -name *.json)
 echo $d
 cp $d $a
-echo $d | cut -c 2-
-echo $d
-printf $a/$myString'\n'>>$e
+mystring=$(echo $d | cut -c 3-)
+echo $mystring
+printf $a/$mystring'\n'>>$e
 rm ./temp.txt
 
 
